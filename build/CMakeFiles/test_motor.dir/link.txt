@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/test_motor.dir/src/test_motor.cpp.o CMakeFiles/test_motor.dir/src/rs06.cpp.o CMakeFiles/test_motor.dir/src/socketcan_driver.cpp.o  -o devel/lib/rs06_ros/test_motor  -lpthread 

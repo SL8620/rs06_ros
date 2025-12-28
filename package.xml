@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>rs06_ros</name>
+  <version>0.0.1</version>
+  <description>RS06 motor test and driver package</description>
+
+  <maintainer email="user@todo.todo">TODO Maintainer</maintainer>
+  <license>TODO-License</license>
+
+  <!-- ROS1 catkin package -->
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <!-- 如果后续需要使用 roscpp/rosconsole 等，再在这里添加：
+	  <depend>roscpp</depend>
+	  <depend>std_msgs</depend>
+  -->
+
+  <!-- system dependencies 如需要可以添加：
+	  <exec_depend>libsocketcan-dev</exec_depend>
+  -->
+
+</package>
+

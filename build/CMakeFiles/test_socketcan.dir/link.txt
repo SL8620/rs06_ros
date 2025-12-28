@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/test_socketcan.dir/src/test_socketcan.cpp.o CMakeFiles/test_socketcan.dir/src/socketcan_driver.cpp.o  -o devel/lib/rs06_ros/test_socketcan  -lpthread 
