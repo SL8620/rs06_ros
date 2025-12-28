@@ -1,0 +1,43 @@
+# Build directories
+build/
+devel/
+log/
+install/
+
+# Catkin/cmake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+CTestConfiguration.ini
+CTestCustom.cmake
+
+# Test results
+.test_results/
+test_results/
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Compiled objects and binaries
+*.o
+*.so
+*.so.*
+*.a
+*.out
+*.exe
+
+# ROS-related
+*.bag
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Other
+*.log

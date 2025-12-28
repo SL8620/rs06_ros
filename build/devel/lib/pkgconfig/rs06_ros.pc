@@ -1,8 +1,0 @@
-prefix=/home/nvidia/codeSpace/rs06_ros/build/devel
-
-Name: rs06_ros
-Description: Description of rs06_ros
-Version: 0.0.1
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
